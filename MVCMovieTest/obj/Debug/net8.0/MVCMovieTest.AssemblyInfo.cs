@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCMovieTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+367dfcc3661f8df48ffebc0520be8089ffe8daaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCMovieTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCMovieTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
